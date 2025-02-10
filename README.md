@@ -1,4 +1,6 @@
 # Sentiment Analysis of Public Responses to the 2024 Indonesian Presidential and Vice Presidential Second Debate on X/Twitter  
+The data was obtained through Twitter data crawling.
+
 Task Done : 
 - Crawling data on Twitter using the Tweet Harvest API
 - Labeling sentiment for each tweet using a lexicon-based approach
